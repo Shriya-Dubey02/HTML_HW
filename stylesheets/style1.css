@@ -1,0 +1,53 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 400 */
+
+#font1 {
+  font-family: "Playwrite ES Deco", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+  background-color: antiquewhite;
+  color:black;
+}
+#font2{
+
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+  background-color: antiquewhite;
+  color:black;
+}
+
+#font3{
+   
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
+  background-color: antiquewhite;
+  color:black;
+}
+#font4{
+    
+  
+      font-family: "Josefin Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500px;
+      font-style: normal;
+      background-color: antiquewhite;
+      color:black;
+    }
+#font5{
+    
+        font-family: "Margarine", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        background-color: antiquewhite;
+        color:black;
+}
+
+h1{
+    color: rebeccapurple;
+}
+
