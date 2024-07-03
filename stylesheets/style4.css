@@ -1,0 +1,24 @@
+.box{
+    height: 300px;
+    width: 300px;
+    position: sticky;
+    border: 3px solid black;
+    
+}
+#box1{
+    background-color: gold;
+    top: 20px;
+    left: 100px;
+}
+    
+#box2{
+    background-color: aqua;
+       top: 40px;
+}
+#box3{
+    background-color: tomato;
+    bottom: 100px;
+
+
+    
+}
