@@ -1,0 +1,105 @@
+.container{
+    background-color: antiquewhite;
+    height: auto;
+    display:inline-flex;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    border: 2px solid black;
+    background-color: chocolate;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+
+}
+
+#box1{
+    background-image: url(../images/luffy.jpg);
+    background-position: top 20px;
+    background-size: 100%;
+    height: 100px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px 5px grey;
+    flex-grow: 2;
+}
+
+#box2{
+    background-image: url(../images/nami.jpg);
+    background-size: 100%;
+    height: 100px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px 5px grey;
+    flex-grow: 6;
+
+}
+
+#box3{
+    background-image: url(../images/zoro.jpg);
+    background-size: 100%;
+    height: 100px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px grey;
+    flex-shrink: 1;
+
+}
+#box4{
+    background-image: url(../images/sanji.jpg);
+    background-size: 100%;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px grey;
+    flex-shrink: 6;
+}
+#box5{
+    background-image: url(../images/robin.jpg);
+    background-size: 100%;
+    width: 100px;
+    height: 180px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px grey;
+
+}
+#box6{
+    background-image: url(../images/ace.jpg);
+    background-size: 100%;
+    border-radius: 30px;
+    height: 300px;
+    box-shadow: 5px 5px 5px 5px grey;
+
+
+}
+#box7{
+    background-image: url(../images/brook.jpg);
+    background-size: 100%;
+    height: 300px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+#box8{
+    background-image: url(../images/chopper.jpg);
+    background-size: 100%;
+    box-shadow: 5px 5px 5px 5px grey;
+    border-radius: 30px;
+
+}
+#box9{
+    background-image: url(../images/everyone.jpg);
+    background-size: 100%;
+    height: 300px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+#box10{
+    background-image: url(../images/Monkey_D_Luffy.png);
+    background-size: 100%;
+    height: 300px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px 5px grey;
+    
+}
+h1{
+    text-align: center;
+    background-color:violet;
+   
+}
