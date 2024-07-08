@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+.dish1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid black;
+}
+
+.dish2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid black;
+    height: 400px;
+    width: 500px;
+}
